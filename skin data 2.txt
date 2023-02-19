@@ -82,70 +82,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "[url=https://ibb.co/xYnsVCv][img]https://i.ibb.co/7Q3z7Yc/maxresdefault-1-4.jpg[/img][/url]",
+      "title": "Talking game mod pack 1",
+        "text_Content": "Talking games are games that rely on the players' verbal skills and ability to communicate effectively to win. These games can be played in various settings and are suitable for different age groups, from children to adults. The objective of a talking game is to have fun and entertain the players, but they also serve an educational purpose by enhancing players' communication, cognitive, and social skills.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "[url=https://ibb.co/2cJ3NTr][img]https://i.ibb.co/frJdvsW/maxresdefault-1-5.jpg[/img][/url]",
+      "title": "Talking game mod pack 2",
+        "text_Content": "Talking games can be played in different ways, depending on the game's objective and rules. Some games require players to speak quickly, while others require them to think creatively and strategically. Regardless of the game's specifics, all talking games involve players using their words to communicate with each other.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "[url=https://ibb.co/101Kn60][img]https://i.ibb.co/S6b0xr6/maxresdefault-1-6.jpg[/img][/url]",
+      "title": "Talking game mod pack 3",
+        "text_Content": "One popular type of talking game is word games. These games typically involve players taking turns to come up with words that fit certain criteria, such as words that start with a specific letter or words that are related to a particular theme. Examples of word games include Scrabble, Boggle, and Hangman.",
+        "text_Content_1": ""
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "[url=https://ibb.co/sK18RtM][img]https://i.ibb.co/YcdHQbq/maxresdefault-1-7.jpg[/img][/url]",
+      "title": "Talking game mod pack 4",
+        "text_Content": "Another type of talking game is guessing games. In these games, one player thinks of a word, phrase, or idea, and the other players must ask yes or no questions to figure out what the word or phrase is. Examples of guessing games include Twenty Questions and Heads Up.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "[url=https://ibb.co/qYtpx9Z][img]https://i.ibb.co/HTWqXYJ/maxresdefault.jpg[/img][/url]",
+      "title": "Talking game mod pack 5",
+        "text_Content": "Role-playing games are also a type of talking game. In these games, players assume different roles and engage in conversations to advance the story or achieve a particular goal. Examples of role-playing games include Dungeons & Dragons and Fiasco.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "[url=https://ibb.co/ZX2tpqh][img]https://i.ibb.co/zx6jTqS/maxresdefault1.jpg[/img][/url]",
+      "title": "Talking game mod pack 6",
+        "text_Content": "In addition to these types of games, there are many other talking games that players can enjoy. Some games are designed for large groups, while others are better suited for smaller groups. Some games are intended to be played quickly, while others can take hours or even days to complete.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "[url=https://ibb.co/YZpmFL7][img]https://i.ibb.co/QdrL3KF/maxresdefault2.jpg[/img][/url]",
+      "title": "Talking game mod pack 7",
+        "text_Content": "Talking games are beneficial for several reasons. They can help players develop their communication skills, including listening, speaking, and nonverbal communication. They can also help players improve their cognitive abilities, including critical thinking, problem-solving, and memory. Additionally, talking games can help players build social skills, such as teamwork, cooperation, and empathy.",
+        "text_Content_1": ""
 
 
 
@@ -240,70 +240,70 @@
     },
     "skins": [
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "imageUrl": "[url=https://ibb.co/z505Fm1][img]https://i.ibb.co/RSVSNg1/1.jpg[/img][/url]",
+      "title": "Talking game mod pack 1",
+      "description": "To download This mod xx please click here."
        
 
 
       
     },
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "imageUrl": "[url=https://ibb.co/vhVZD17][img]https://i.ibb.co/RNYz72x/3.jpg[/img][/url]",
+      "title": "Talking game mod pack 2",
+      "description": "To download This mod xx please click here."
        
 
       
     },
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "imageUrl": "[url=https://ibb.co/mXJkk5P][img]https://i.ibb.co/1dZ11G4/4.jpg[/img][/url]",
+      "title": "Talking game mod pack 3",
+      "description": "To download This mod xx please click heree."
        
 
       
     }
     ,{
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "imageUrl": "[url=https://imgbb.com/][img]https://i.ibb.co/3FJ0tm1/5.jpg[/img][/url]",
+      "title": "Talking game mod pack 4",
+      "description": "To download This mod xx please click here."
        
 
 
       
     },
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "imageUrl": "[url=https://ibb.co/M5mv9GZ][img]https://i.ibb.co/2YT95sW/6.jpg[/img][/url]",
+      "title": "Talking game mod pack5",
+      "description": "To download This mod xx please click here."
        
     },
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "imageUrl": "[url=https://ibb.co/TvH33jk][img]https://i.ibb.co/f1Cww62/7.jpg[/img][/url]",
+      "title": "Talking game mod pack 6",
+      "description": "To download This mod xx please click here."
      
     },
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "imageUrl": "[url=https://ibb.co/0KrDf0t][img]https://i.ibb.co/5kLM5QF/8.jpg[/img][/url]",
+      "title": "Talking game mod pack 7",
+      "description": "To download This mod xx please click here."
        
     }, {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 8",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "imageUrl": "[url=https://imgbb.com/][img]https://i.ibb.co/gRnXCY4/9.jpg[/img][/url]",
+      "title": "Talking game mod pack 8",
+      "description": "To download This mod xx please click here."
        
     }, {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 9",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "imageUrl": "[url=https://ibb.co/MSwKC8g][img]https://i.ibb.co/bmwYKH6/10.jpg[/img][/url]",
+      "title": "Talking game mod pack 9",
+      "description": "To download This mod xx please click here."
        
     }, {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 10",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "imageUrl": "[url=https://ibb.co/T4K6T2J][img]https://i.ibb.co/9bw6vgB/2.jpg[/img][/url]",
+      "title": "Talking game mod pack 10",
+      "description": "To download This mod xx please click here."
        
     }
   ]
